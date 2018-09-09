@@ -40,6 +40,7 @@ public class Queue {
             String task = first.task;
             Date time = first.date;
             first = first.next;
+            size--;
             return new Node(task,time);
         }
         else
