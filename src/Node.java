@@ -10,4 +10,27 @@ public class Node {
         task = t;
         date = d;
     }
+
+    public String toString()
+    {
+        return this.task;
+    }
+
+    public Date getDate()
+    {
+        return this.date;
+    }
+
+    public void setDate(Date date) {
+        this.date = date;
+    }
+
+    public void setTask(String task) {
+        this.task = task;
+    }
+
+    public void setNext(Node n)
+    {
+        next = n;
+    }
 }
