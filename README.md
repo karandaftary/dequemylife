@@ -1,8 +1,8 @@
 # dequemylife
 App to organize daily tasks
 
-##High level spec: 
-###Backend requirements: @arushi
+## High level spec: 
+### Backend requirements: @arushi
 - Create a robust Queue that can perform the following operations: 
     - enqueue(T item) -> adds item to the end of the queue
     - dequeue() -> returns T. The T will be determined later.
@@ -24,7 +24,7 @@ Common Test cases:
 - Print a filled queue
 - Print an empty queue
 
-###Frontend requirements: @karan
+### Frontend requirements: @karan
 - set layout in Java Swing
     - enqueue button 
     - enqueue text box - 1 line
