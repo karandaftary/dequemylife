@@ -2,7 +2,11 @@
 We add to our to-do lists unendingly. And when we try to complete the first task, we are immediately distracted by the apparent urgency of the second task, or the priority of the third task. Using this app you can still preserve your to-do list but focus only on the top thing everyday.  
 
 ## Getting started with Developement in VSCode
-terminal -> `pip3 install django`
+### Best practices
++ upgrade pip -> `pip install --upgrade pip`
++ terminal -> `pip3 install django`
+
+
 
 
 Use Cases to consider:
